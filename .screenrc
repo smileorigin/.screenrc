@@ -7,4 +7,3 @@ defc1 off
 caption always "%c:%s %D %Y%m%d%{= dd} %-Lw%45L>%{+bu}%n %t%{-}%+Lw%-09< %="
 shell bash
 shelltitle "$ |bash"
-defflow off
