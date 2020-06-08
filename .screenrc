@@ -1,3 +1,4 @@
+term xterm-256color
 termcapinfo xterm* ti@:te@
 escape ^Ss
 altscreen on
